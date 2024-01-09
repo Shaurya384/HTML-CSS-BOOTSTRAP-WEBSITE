@@ -1,0 +1,33 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #6E07F3, #ffffd5);
+    color: #333; /* Adjust text color for better contrast */
+}
+
+header {
+    background: linear-gradient(to right, #ffffd5, #6E07F3);
+    text-align: center;
+    padding: 1em;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: linear-gradient(to right, #ffffd5, #6E07F3);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.about-me {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: 1em;
+    background: linear-gradient(to right, #6E07F3, #ffffd5);
+    color: #fff;
+}
